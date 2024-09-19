@@ -1,7 +1,7 @@
 # Bike-Shopping-Report by Power BI
 In this project, we are tasked with tracking KPIs (sales, revenue, profit, returns), comparing regional performance, analyzing product-level trends, and identifying high-level customers for a hypothetical bike company.
 
-# Exec Dashboard
+Exec Dashboard
 ![Exec Dashboard](./1.png)
 In this page, we have high-level KPIs that the leadership team cares about: revenue, profit, order, and return rate. We've got a nicely revenue trending chart here as well. We use some Intractive elements that Power Bi offers like sliders to zoom in one specific time periods, custom tool tips. We can drill into any specific product to take us to our product detail view.
 
